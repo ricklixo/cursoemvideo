@@ -17,3 +17,7 @@
 \.idea/workspace\.xml
 
 \.idea/vcs\.xml
+
+\.vscode/launch\.json
+
+\.vscode/
