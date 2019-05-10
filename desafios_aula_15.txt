@@ -1,0 +1,18 @@
+DESAFIOS 
+
+# 066 - Crie um programa que leia vários números inteiros. O programa só vai parar quando o usuário digitar 999. No final mostre quantos numeros foram digitados e qual foi a soma entre eles (Desconsiderando o flag).
+
+
+# 067 - Faça um programa que mostre a tabuada de vários numeros, um de cada vez, para cada valor digitado pelo usuário. O programa será interrompido se o valor for negativo.
+
+
+# 068 - Faça um programa que jogue PAR ou IMPAR com o ocomputador. O jogo será interrompido quando o jogador PERDER, mostrando o total de vitórias consecutivas que ele conquistou no jogo.
+
+
+# 069 - Crie um programa que leia a idade e o sexo de várias pessoas. A cada pessoa cadastrada o programa pergunta se o usuário quer continuar ou não. No final, mostre: a) quantas pessoas tem mais de 18 anos. b) quantos homens foram cadastrados. C) quantas mulheres tem menos de 20 anos.
+
+
+# 070 - Crie um programa que leia o nome e o preço de vários produtos. O programa deverá perguntar se o usuário vai continuar. No final mostre: a) qual é o total gasto na compra. b) quantos produtos custam mais de R$ 1000. c) qual é o nome do produto mais barato.
+
+
+# 071 -

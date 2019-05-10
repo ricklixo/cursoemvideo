@@ -12,7 +12,26 @@ while termos != 0:
             print('FIM')
         t += r
         cont += 1
-    termos = int(input('Quantos termos a mais deseja inserir? '))
+    termos = int(input('Quantos termos a mais deseja mostrar? '))
     cont = 0
 
 # SOLUÇÃO GUANABARA
+print('Gerador de PA')
+print()
+primeiro = int(input('Primeiro termo: '))
+razão = int(input('Razão da Pa: '))
+termo = primeiro
+cont = 1
+total = 0
+mais = 10
+while mais !=0:
+    total = total + mais
+    while cont <= total:
+        print('{} -> '.format(termo), end='')
+        termo += razão
+        cont +=1
+    print('PAUSA')
+    mais = int(input('Quantos termos a mais? '))
+print('Termos mostrados: {}'.format(total))
+print('FIM')
+
